@@ -1,0 +1,15 @@
+User-agent: Yandex
+Disallow : /js/
+Disallow : /style/
+Disallow : /PHPMailer/
+Disallow : /fonts/
+Disallow : /images/
+Disallow : /scripts/
+User-agent: Googlebot
+Disallow : /js/
+Disallow : /style/
+Disallow : /PHPMailer/
+Disallow : /fonts/
+Disallow : /images/
+Disallow : /scripts/
+Sitemap: http://www.tehgaz63.ru/sitemap.xml
